@@ -1,0 +1,5 @@
+MNIST_Prediction
+
+Accuracy - 99.17%
+
+Model - CNN(DL)
