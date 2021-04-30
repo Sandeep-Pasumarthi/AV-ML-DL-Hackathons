@@ -1,6 +1,6 @@
 # Big Mart Sales Prediction
 
-The dataset is taken from the hackaton on Analytics Vidhya. The data set 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
+The dataset is taken from the hackaton on Analytics Vidhya. The data set is 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
 In the data set 8523 data points for training and 5681 data points for prediction. Almost for every data point in train data set there are 11 features with some missing values and outliers.
 
